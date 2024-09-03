@@ -4,6 +4,9 @@
 
 Re-Broh adalah proyek yang bertujuan untuk menciptakan Desa Lambaro Kueh yang bebas sampah dan meningkatkan perekonomian lokal melalui digitalisasi pengelolaan sampah. Proyek ini mengintegrasikan teknologi digital dalam proses pengumpulan, pemilahan, dan pengolahan sampah, serta memberdayakan masyarakat untuk terlibat dalam bisnis berbasis sampah. Dengan dukungan edukasi dan kemitraan antara pemerintah, masyarakat, dan swasta, Re-Broh berupaya mewujudkan lingkungan desa yang bersih, sehat, dan berkelanjutan. 
 
+## Download Aplikasinya Pada Link Dibawah ini 🤩
+[!Google Drive](https://drive.google.com/file/d/1gzGFeGpWcIlTLI_JRfiJx1_q3EtyU6HY/view?usp=sharing)
+
 ## Meet The Team! 👋
 
 | Nama | NIM | Jurusan | Universitas | LinkedIn |
@@ -19,7 +22,7 @@ Re-Broh adalah proyek yang bertujuan untuk menciptakan Desa Lambaro Kueh yang be
 | Dhiya Rahmad | 2104105010061 | Teknik Elektro | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiya-rahmad-usk) |
 | T Ferry Ferdiansyah | 2104105010064 | Teknik Elektro | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-ferry-ferdiansyah-63a069209?trk=contact-info) |
 | Muhammad Raihan | 2104105010083 | Teknik Elektro | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-raihan22) |
-| Andrean Maulana | 2104105010099 | Teknik Elektro | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suciramadhani10) |
+| Andrean Maulana | 2104105010099 | Teknik Elektro | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/andrean-maulana-30704a327) |
 | Yasyfa Fasya Sebayang | 2104101010001 | Teknik Sipil | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suciramadhani10) |
 | Muhammad Rafli | 2104102010071 | Teknik Mesin | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suciramadhani10) |
 | Muhammad Salsabil | 2104102010012 | Teknik Mesin | Universitas Syiah Kuala | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suciramadhani10) |
